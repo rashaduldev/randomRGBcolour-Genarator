@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
