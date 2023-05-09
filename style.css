@@ -16,3 +16,26 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+p{
+    font-size: 28px;
+    text-shadow: hoff voff blur #f8e5e5;
+    line-height: none;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.btn{
+    font-size: 32px;
+    margin: 10px 0px;
+    padding: 5px 10px  ;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: #b5e499;
+    color: #000;
+}
